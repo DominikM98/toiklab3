@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.println("ok");
         System.out.println("oks");
+        System.out.println("okk");
     }
 }
